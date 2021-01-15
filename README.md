@@ -1,7 +1,7 @@
 # PIS_Project
 
 This is course project done under the supervision of Prof. M.P. Singh department of computer science and engineeing NITK, surathkal.</br>
-Developed by-
+Developed by-</br>
 Rakeshwar Verma (202cs021) MTECH CSE </br>
 Saurabh Kumar (202cs028) MTECH CSE </br>
  
